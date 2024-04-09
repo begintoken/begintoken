@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Begin Token Landing Page
+
+Welcome to the Begin Token Landing Page repository!
+
+## About
+
+This repository hosts the source code for the Begin Token website, which serves as the landing page for the Begin Token project. The website provides information about Begin Token, its features, and how to get involved.
+Features
+
+- Introduction to Begin Token: Learn about Begin Token, its vision, and its mission to onboard new users to the world of digital assets.
+
+- Educational Content: Access educational resources about blockchain technology, cryptocurrencies, and the broader Web3 ecosystem.
+
+- Community Engagement: Engage with the Begin Token community, ask questions, and participate in discussions about blockchain and cryptocurrency.
 
 ## Getting Started
 
-First, run the development server:
+To contribute to the Begin Token landing page website, follow these steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+Clone the Repository: Clone this repository to your local machine using Git.
+
+```
+git clone https://github.com/Begin-Token/begintoken-landing-page.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Explore the Code: Explore the codebase to understand how the Begin Token website is built and how you can contribute.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Customize and Deploy: Customize the website to fit your needs, then deploy it to your hosting platform of choice.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Support
 
-## Learn More
+If you have any questions, feedback, or issues related to the Begin Token website, please don't hesitate to reach out. You can contact us via GitHub issues.
 
-To learn more about Next.js, take a look at the following resources:
+## License
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This project is licensed under the GPLv3 License. Feel free to use, modify, and distribute the code for your own purposes.
