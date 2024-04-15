@@ -23,6 +23,7 @@ export default function RootLayout({
       <head>
         {/* <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" /> */}
         <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+        <link rel="robots" href="robots.txt" />
       </head>
       <body className={inter.className}>
         {/* <Header/> */}
