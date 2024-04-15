@@ -24,6 +24,26 @@ export default function RootLayout({
         {/* <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" /> */}
         <link rel="icon" href="favicon.svg" type="image/svg+xml" />
         <link rel="robots" href="robots.txt" />
+        {/* <!-- HTML Meta Tags --> */}
+          <title>Begin Token: Let's Begin Learning!</title>
+          <meta name="description" content="Learn about cryptocurrency the easy way with our educational platform and welcoming community."/>
+
+          {/* <!-- Facebook Meta Tags --> */}
+          <meta property="og:url" content="https://begintoken.com"/>
+          <meta property="og:type" content="website"/>
+          <meta property="og:title" content="Begin Token: Let's Begin Learning!"/>
+          <meta property="og:description" content="Learn about cryptocurrency the easy way with our educational platform and welcoming community."/>
+          <meta property="og:image" content="https://opengraph.b-cdn.net/production/documents/a8709d29-3562-43e5-b6b4-fb48b07ed7f1.png?token=_HwKlQyEUhltWzn1RgKCMyCak2m7wId3FpCN7gRlo74&height=675&width=1200&expires=33249174717"/>
+
+          {/* <!-- Twitter Meta Tags --> */}
+          <meta name="twitter:card" content="summary_large_image"/>
+          <meta property="twitter:domain" content="begintoken.com"/>
+          <meta property="twitter:url" content="https://begintoken.com"/>
+          <meta name="twitter:title" content="Begin Token: Let's Begin Learning!"/>
+          <meta name="twitter:description" content="Learn about cryptocurrency the easy way with our educational platform and welcoming community."/>
+          <meta name="twitter:image" content="https://opengraph.b-cdn.net/production/documents/a8709d29-3562-43e5-b6b4-fb48b07ed7f1.png?token=_HwKlQyEUhltWzn1RgKCMyCak2m7wId3FpCN7gRlo74&height=675&width=1200&expires=33249174717"/>
+
+          {/* <!-- Meta Tags Generated via https://www.opengraph.xyz --></meta> */}
       </head>
       <body className={inter.className}>
         {/* <Header/> */}
