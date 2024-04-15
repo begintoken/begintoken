@@ -20,11 +20,15 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        {/* <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" /> */}
+        <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+      </head>
       <body className={inter.className}>
         {/* <Header/> */}
         <header className="text-white py-4 sm:px-4 lg:px-12 bg-base-200">
           <nav className="flex items-center justify-between">
-            <div className="flex items-center">
+            <div className="flex items-center pl-4">
               <Link href="/">
                 <Image src={logo} alt="Logo" width={60} height={60} className='rounded-full' />
               </Link>
