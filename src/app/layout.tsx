@@ -31,8 +31,8 @@ export default function RootLayout({
           {/* <!-- Facebook Meta Tags --> */}
           <meta property="og:url" content="https://begintoken.com"/>
           <meta property="og:type" content="website"/>
-          <meta property="og:title" content="Begin Token: Let's Begin Learning!"/>
-          <meta property="og:description" content="Learn about cryptocurrency the easy way with our educational platform and welcoming community."/>
+          <meta property="og:title" content="Begin Token: Learn Crypto for Free!"/>
+          <meta property="og:description" content="Empowering the crypto community with free and accessible education. Let's $BEGIN !"/>
           <meta property="og:image" content="https://opengraph.b-cdn.net/production/documents/a8709d29-3562-43e5-b6b4-fb48b07ed7f1.png?token=_HwKlQyEUhltWzn1RgKCMyCak2m7wId3FpCN7gRlo74&height=675&width=1200&expires=33249174717"/>
 
           {/* <!-- Twitter Meta Tags --> */}
