@@ -1,3 +1,9 @@
+# *
 User-agent: *
 Allow: /
-Sitemap: https://begintoken.com/sitemap.xml
+
+# Host
+Host : https://www.begintoken.com
+
+# Sitemap
+Sitemap: https://www.begintoken.com/sitemap.xml
